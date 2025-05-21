@@ -1,16 +1,25 @@
-### Hi there 👋
+# Привет! Меня зовут Зульфат Мустафин
 
-<!--
-**Pengu1Nus/Pengu1Nus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я — **Backend Python-разработчик**. Специализируюсь на создании backend приложений и написании чистого и поддерживаемого кода.
 
-Here are some ideas to get you started:
+## 🛠️ Стек технологий
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Языки**: Python, Bash
+- **Фреймворки**: Django, Django Rest Framework
+- **Базы данных**: PostgreSQL, MySQL
+- **Инструменты**: Docker, Git, Linux, Nginx
+- **Облако/DevOps**: GitHub Actions
+
+## 💼 Сейчас работаю над
+
+- Вкладом в open-source проекты
+
+
+## 📫 Связаться со мной
+
+- Telegram — @ZulfatMust
+
+## 🧠 Сейчас изучаю
+
+- Асинхронный Python на продвинутом уровне
+- Разработку через тестирование (TDD)
